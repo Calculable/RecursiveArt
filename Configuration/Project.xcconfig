@@ -1,0 +1,4 @@
+// Shared defaults. Personal signing settings stay in the ignored local file.
+RECURSIVE_ART_BUNDLE_ID = com.example.RecursiveArt
+DEVELOPMENT_TEAM =
+#include? "Local.xcconfig"

@@ -1,0 +1,23 @@
+# macOS and Xcode user settings
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Build products and test reports
+build/
+DerivedData/
+.build/
+*.xcarchive
+*.xcresult
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# Local signing and credentials
+Configuration/Local.xcconfig
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision

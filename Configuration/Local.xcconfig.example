@@ -1,0 +1,3 @@
+// Copy to Local.xcconfig and enter your own values for device builds.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID
+RECURSIVE_ART_BUNDLE_ID = ch.yourname.RecursiveArt
