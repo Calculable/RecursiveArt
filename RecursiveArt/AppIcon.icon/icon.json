@@ -1,0 +1,50 @@
+{
+  "features" : [
+    "refractivity"
+  ],
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.03500,0.02500,0.12000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "01-Outer.svg",
+          "name" : "01-Outer"
+        },
+        {
+          "image-name" : "02-Echo.svg",
+          "name" : "02-Echo"
+        },
+        {
+          "image-name" : "03-Inner.svg",
+          "name" : "03-Inner"
+        },
+        {
+          "image-name" : "04-Core.svg",
+          "name" : "04-Core"
+        }
+      ],
+      "name" : "Recursive Portal",
+      "refractivity" : {
+        "depth" : 0,
+        "enabled" : true,
+        "strength" : 0.5
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.15
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
