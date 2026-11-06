@@ -1,4 +1,4 @@
-# Recursive Art
+# Recursive Art (Vibed)
 
 <img src="docs/app-icon.png" alt="Recursive Art app icon: colorful glass frames spiraling into a dark indigo background" width="192" height="192">
 
